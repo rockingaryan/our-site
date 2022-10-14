@@ -1,0 +1,28 @@
+h2 b{
+    color: blueviolet;
+ }
+ .background{
+    background-image: url(personal.jpg);
+height:1448px;
+width: 1310px;
+background-size: contain;
+background-repeat:no-repeat ;
+margin: 3px;
+
+}
+
+.bod{
+background-color: black;
+}
+.bo
+{
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+
+    font-size: large;
+    
+}
+h2{
+    color: black;
+}
